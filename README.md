@@ -1,1 +1,3 @@
-# My boilerplate for sphinx documents
+# sphinx-boilerplate
+
+My boilerplate for sphinx documents.
