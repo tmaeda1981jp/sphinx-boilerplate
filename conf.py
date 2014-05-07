@@ -199,7 +199,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'sphinx-boilerplate.tex', u'sphinx-boilerplate Documentation',
-   u'tmaeda1981jp', 'manual'),
+   u'', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
